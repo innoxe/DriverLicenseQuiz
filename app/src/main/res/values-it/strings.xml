@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Driver License Quiz</string>
+    <string name="insert_name_head">Inserisci il tuo nome</string>
+    <string name="results_head">Risultati</string>
+    <string name="start_quiz">Inizia il Quiz</string>
+    <string name="q_sign_mean">Cosa significa questo segnale?</string>
+    <string name="q_3_question">"Area vicino ad una scuola. Potrebbero esserci ..... che attraversano la strada."</string>
+    <string name="q_3_advice">Scrivi la parola mancante</string>
+    <string name="q_4_question">Quali una o più risposte sono giuste?</string>
+    <string name="question_1_answer_1">Stop</string>
+    <string name="question_1_answer_2">Dare precedenza</string>
+    <string name="a_priority_road">Diritto di precedenza</string>
+    <string name="a_road_square">Strada attorno ad una piazza</string>
+    <string name="a_level_crossing">Passaggio a livello</string>
+    <string name="question_4_answer_1">Attendi per dare precedenza</string>
+    <string name="question_4_answer_2">Strada sbagliata</string>
+    <string name="question_4_answer_3">Avviso di fermarsi e dare precedenza.</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_answer">Risposta</string>
+    <string name="btn_result">Risultati</string>
+    <string name="toast_messageNoName">Devi prima inserire il tuo nome!</string>
+    <string name="toast_messageQuestions">Totale domande %1$s di %2$s</string>
+    <string name="toast_rightAnswers">Risposte giuste %1$s\nPercentuale %2$s</string>
+    <string name="toast_message1">Oh! Mi dispiace&lt;br /&gt;  &lt;b&gt;%1$s&lt;/b&gt; &lt;br /&gt; &lt;i&gt;Il tuo risultato non è alquanto soddisfacente.&lt;/i&gt;</string>
+    <string name="toast_message2">&lt;b&gt;OK!  %1$s&lt;/b&gt; &lt;br /&gt; &lt;i&gt;Hai fatto del tuo meglio. Riprova.&lt;/i&gt;</string>
+    <string name="toast_message3">&lt;b&gt;%1$s Ben fatto!&lt;/b&gt; &lt;br /&gt;&lt;i&gt;Hai raggiunto un ottimo risultato.&lt;/i&gt;</string>
+
+
+    <string-array name="answer1">
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+    <string-array name="answer2">
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+    </string-array>
+    <string-array name="answer3">
+        <item>bambini</item>
+    </string-array>
+    <string-array name="answer4">
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+
+</resources>

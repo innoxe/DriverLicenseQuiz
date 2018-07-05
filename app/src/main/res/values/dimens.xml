@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="line_start">1dp</dimen>
+
+    <!--  Label edit name field -->
+    <dimen name="marginTop_label_editName">12dp</dimen>
+    <dimen name="marginBottom_label_editName">16dp</dimen>
+    <dimen name="marginLeft_label_editName">12dp</dimen>
+
+    <!--  ViewGroup question -->
+    <dimen name="marginLeft_question_group">10dp</dimen>
+    <dimen name="marginRight_question_group">10dp</dimen>
+    <dimen name="marginBottom_question_group">10dp</dimen>
+    <dimen name="paddingBottom_question_group">6dp</dimen>
+
+    <!--  Questions image -->
+    <dimen name="width_question_image">0dp</dimen>
+    <dimen name="padding_question_image">20dp</dimen>
+
+    <!--  Questions text -->
+    <dimen name="marginTop_question_text">16dp</dimen>
+    <dimen name="marginBottom_question_text">16dp</dimen>
+    <dimen name="size_question_text">16sp</dimen>
+
+    <!--  Questions RadioButton -->
+    <dimen name="padding_question_radioB">8dp</dimen>
+
+    <!--  Questions EditText -->
+    <dimen name="marginBottom_question_editText">5dp</dimen>
+    <dimen name="marginLeft_question_editText">5dp</dimen>
+    <dimen name="marginRight_question_editText">5dp</dimen>
+
+
+
+</resources>

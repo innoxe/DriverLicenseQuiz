@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Driver License Quiz</string>
+    <string name="insert_name_head">Insert Your name</string>
+    <string name="results_head">Results</string>
+    <string name="start_quiz">Start the Quiz</string>
+
+    <string name="img_question1" translatable="false">Image question 1</string>
+    <string name="img_question2" translatable="false">Image question 2</string>
+    <string name="img_question3" translatable="false">Image question 3</string>
+    <string name="img_question4" translatable="false">Image question 4</string>
+
+    <string name="q_sign_mean">What does this sign mean?</string>
+    <string name="q_3_question">Area near a school in which .......... may be crossing
+the road.</string>
+    <string name="q_3_advice">Write the missing word.</string>
+    <string name="q_4_question">What is/are the right answer/s?</string>
+
+
+    <string name="question_1_answer_1">Stop</string>
+    <string name="question_1_answer_2">Yield or give way</string>
+
+    <string name="a_priority_road">Priority road</string>
+    <string name="a_road_square">Road around the square</string>
+    <string name="a_level_crossing">Level crossing</string>
+
+    <string name="question_4_answer_1">Yield the appropriate right-of-way</string>
+    <string name="question_4_answer_2">Wrong Way</string>
+    <string name="question_4_answer_3">It warns drivers that they must stop</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_answer">Answer</string>
+
+    <string name="btn_result">RESULTS</string>
+
+
+    <string name="toast_messageNoName">You must enter your name for start the quiz!</string>
+    <string name="toast_messageQuestions">Total Questions %1$s out of %2$s</string>
+    <string name="toast_rightAnswers">Right answers %1$s\nYour percentage %2$s</string>
+
+    <string name="toast_message1">Oh! Sorry&lt;br /&gt;  &lt;b&gt;%1$s&lt;/b&gt; &lt;br /&gt; &lt;i&gt;I’m Not Quite Satisfied With This Work.&lt;/i&gt;</string>
+    <string name="toast_message2">&lt;b&gt;OK!  %1$s&lt;/b&gt; &lt;br /&gt; &lt;i&gt;You did your best. Try Again.&lt;/i&gt;</string>
+    <string name="toast_message3">&lt;b&gt;%1$s Well Done!&lt;/b&gt; &lt;br /&gt;&lt;i&gt;You achieved a good result.&lt;/i&gt;</string>
+
+    <string-array name="answer1">
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+    <string-array name="answer2">
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+    </string-array>
+    <string-array name="answer3">
+        <item>children</item>
+    </string-array>
+    <string-array name="answer4">
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+
+</resources>

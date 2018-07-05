@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1565c0</color>
+    <color name="colorPrimaryDark">#053c66</color>
+    <color name="colorAccent">#bbdefb</color>
+
+    <!-- Background LinearLayout parent -->
+    <color name="backgroundApp">#E6E6E6</color>
+
+    <!-- Background LinearLayout Questions -->
+    <color name="backgroundQuestion">#ffffff</color>
+
+    <!-- Button -->
+    <color name="colorTextButton">#ffffff</color>
+
+</resources>
