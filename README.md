@@ -10,3 +10,7 @@ This project is about combining various ideas and skills we’ve been practicing
 - Creating, positioning, and styling views.
 - Creating interactivity through button clicks and Java code.
 - Commenting and documenting your code.
+
+<img src="https://github.com/innoxe/DriverLicenseQuiz/blob/master/Screenshot_1.png" width="15%"></img>
+<img src="https://github.com/innoxe/DriverLicenseQuiz/blob/master/Screenshot_2.png" width="15%"></img>
+<img src="https://github.com/innoxe/DriverLicenseQuiz/blob/master/Screenshot_3.png" width="15%"></img>
